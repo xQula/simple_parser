@@ -1,0 +1,11 @@
+[section 1]
+;commit
+var1 = ssss ;asdds
+var2 = 1
+var3 = 5.5 
+
+[section 2]
+;asdasxzc
+var1 = aaaa
+var2 = 2
+var3 = 6.6 
